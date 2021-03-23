@@ -1,6 +1,7 @@
 # Code Challenge
 
 Provide a user interface to search for and display points of interest.
+Written answers to questions: [Questions](./QUESTIONS.md)
 
 ### Acceptance criteria
 * Users can type queries into the search box
@@ -11,7 +12,6 @@ Provide a user interface to search for and display points of interest.
 ## The application:
 
 A modified [create-react-app](https://facebook.github.io/create-react-app/) to support Typescript, styled-components and  react-testing-library.
-Written answers to questions: [Questions](./QUESTIONS.md)
 
 ### Running the project locally and testing
 
